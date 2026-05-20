@@ -6,7 +6,7 @@ issue: 1
 topic: Hedge Funds
 tags:
   - "#temerity-holdings/research"
-  - "#magazine"
+  - "#brief"
 description: "A comprehensive landscape primer on the hedge fund industry — history, structure, strategies, business models, key players, regulations, and current state."
 ---
 
@@ -14,7 +14,7 @@ description: "A comprehensive landscape primer on the hedge fund industry — hi
 
 > **About this issue:** Each issue of *Hedge Fund Deep Dive* combines Claude-written synthesis with curated external sources. Claude reads the approved sources in full and writes narrative synthesis sections from scratch — each clearly attributed. The external sources are verified free-access and included for readers who want to go deeper. This is a one-time landscape primer; future issues will cover emerging developments as the industry evolves.
 >
-> [[research/index|Research]] · [[research/magazine/index|Magazine]] · [[research/magazine/hedge-fund-deep-dive/index|Hedge Fund Deep Dive]]
+> [[research/index|Research]] · [[research/brief/index|Briefs]] · [[research/brief/hedge-fund-deep-dive/index|Hedge Fund Deep Dive]]
 
 ## Introduction
 
