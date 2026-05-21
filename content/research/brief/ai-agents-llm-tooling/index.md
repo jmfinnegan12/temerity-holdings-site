@@ -11,7 +11,7 @@ description: "A recurring research brief on the state of AI agents and the LLM t
 
 **Issue type:** Primer (Issue 1) → recurring bi-weekly. The primer covers a brief history and the current landscape; recurring issues track new model releases, framework developments, and notable research.
 
-**Cadence:** Bi-weekly (alternating with [[research/brief/prediction-markets/index|Prediction Markets]]).
+**Frequency:** Bi-weekly.
 
 ---
 

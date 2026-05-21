@@ -11,7 +11,7 @@ description: "A recurring research brief on risk management for systematic and d
 
 **Issue type:** Primer (Issue 1) → recurring monthly. The primer establishes a framework of frameworks; recurring issues go deeper on specific topics or surface new research.
 
-**Cadence:** Monthly.
+**Frequency:** Monthly.
 
 ---
 

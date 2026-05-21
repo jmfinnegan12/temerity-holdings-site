@@ -11,7 +11,7 @@ description: "A recurring research brief on the prediction markets industry — 
 
 **Issue type:** Primer (Issue 1) → recurring bi-weekly. The primer establishes a baseline of the ecosystem; recurring issues track new platform developments, regulatory shifts, academic research, and notable market events.
 
-**Cadence:** Bi-weekly (alternating with [[research/brief/ai-agents-llm-tooling/index|AI Agents & LLM Tooling]]).
+**Frequency:** Bi-weekly.
 
 ---
 
@@ -19,7 +19,7 @@ description: "A recurring research brief on the prediction markets industry — 
 
 | Issue | Date | Description |
 |---|---|---|
-| *Issue 1 coming soon* | — | Primer: history & regulatory landscape, platform ecosystem, pricing efficiency, strategy research, current developments |
+| [[research/brief/prediction-markets/2026-05-19-prediction-markets\|Vol. 1, Issue 1]] | 2026-05-19 | Landscape primer: history & regulatory landscape, platform ecosystem, pricing efficiency, strategy research, current developments |
 
 ---
 

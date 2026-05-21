@@ -11,7 +11,7 @@ description: "A recurring research brief on systematic trading — signal design
 
 **Issue type:** Primer (Issue 1) → recurring monthly. The primer establishes foundations; recurring issues track new research and practitioner work.
 
-**Cadence:** Monthly.
+**Frequency:** Monthly.
 
 ---
 

@@ -11,7 +11,7 @@ description: "A recurring research series on the hedge fund industry — landsca
 
 **Issue type:** Began as a one-time comprehensive primer (Issue 1). Future issues cover emerging developments, new regulatory changes, evolving competitive dynamics, and special topics (e.g. fund operations & startup, specific strategy deep dives).
 
-**Cadence:** Monthly (alternating with [[research/brief/quant-trading-microstructure/index|Quant Trading & Market Microstructure]] and [[research/brief/risk-management/index|Risk Management]]).
+**Frequency:** Monthly.
 
 ---
 

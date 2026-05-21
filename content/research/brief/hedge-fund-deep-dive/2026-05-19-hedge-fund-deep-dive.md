@@ -12,7 +12,7 @@ description: "A comprehensive landscape primer on the hedge fund industry — hi
 
 # Hedge Funds — Vol. 1, Issue 1
 
-> **About this issue:** Each issue of *Hedge Fund Deep Dive* combines Claude-written synthesis with curated external sources. Claude reads the approved sources in full and writes narrative synthesis sections from scratch — each clearly attributed. The external sources are verified free-access and included for readers who want to go deeper. This is a one-time landscape primer; future issues will cover emerging developments as the industry evolves.
+> **About this issue:** Each issue of *Hedge Fund Deep Dive* combines Claude-written synthesis with curated external sources. This is a one-time landscape primer; future issues will cover emerging developments as the industry evolves.
 >
 > [[research/index|Research]] · [[research/brief/index|Briefs]] · [[research/brief/hedge-fund-deep-dive/index|Hedge Fund Deep Dive]]
 
