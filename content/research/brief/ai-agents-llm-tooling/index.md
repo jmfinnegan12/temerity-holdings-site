@@ -19,7 +19,7 @@ description: "A recurring research brief on the state of AI agents and the LLM t
 
 | Issue | Date | Description |
 |---|---|---|
-| *Issue 1 coming soon* | — | Primer: brief history of LLM agents, model landscape, orchestration frameworks, tooling ecosystem, production deployment patterns, current developments |
+| [[research/brief/ai-agents-llm-tooling/2026-05-27-ai-agents-llm-tooling\|Vol. 1, Issue 1]] | 2026-05-27 | Primer: brief history of LLM agents, model landscape, orchestration frameworks, tooling ecosystem, production deployment patterns, current developments |
 
 ---
 

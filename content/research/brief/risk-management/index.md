@@ -19,7 +19,7 @@ description: "A recurring research brief on risk management for systematic and d
 
 | Issue | Date | Description |
 |---|---|---|
-| *Issue 1 coming soon* | — | Primer: risk philosophy frameworks, position sizing, portfolio-level risk, drawdown management, tools & systems |
+| [[research/brief/risk-management/2026-05-27-risk-management\|Vol. 1, Issue 1]] | 2026-05-27 | Primer: risk philosophy frameworks, position sizing, portfolio-level risk, drawdown management, tools & systems |
 
 ---
 

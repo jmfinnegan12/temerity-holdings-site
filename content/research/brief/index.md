@@ -17,7 +17,7 @@ Temerity Holdings Briefs are a series of AI-curated research issues on topics ce
 | Brief | Cadence | Status |
 |---|---|---|
 | [[research/brief/hedge-fund-deep-dive/index\|Hedge Fund Deep Dive]] | Monthly | Issue 1 published |
-| [[research/brief/prediction-markets/index\|Prediction Markets]] | Bi-weekly | Primer in progress |
+| [[research/brief/prediction-markets/index\|Prediction Markets]] | Bi-weekly | Issue 1 published |
 | [[research/brief/ai-agents-llm-tooling/index\|AI Agents & LLM Tooling]] | Bi-weekly | Primer in progress |
 | [[research/brief/quant-trading-microstructure/index\|Quant Trading & Market Microstructure]] | Monthly | Primer in progress |
 | [[research/brief/risk-management/index\|Risk Management]] | Monthly | Primer in progress |
