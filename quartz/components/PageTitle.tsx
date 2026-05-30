@@ -35,6 +35,10 @@ PageTitle.css = `
   display: inline-flex;
   align-items: center;
   gap: 0.55rem;
+  color: #6f63ac;
+}
+:root[saved-theme="dark"] .page-title-link {
+  color: #c7bce0;
 }
 .page-title-logo {
   height: 1.5rem;
