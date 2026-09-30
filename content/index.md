@@ -2,7 +2,7 @@
 title: Temerity Holdings
 ---
 ## About
-Temerity Holdings is an experimental AI-powered hedge fund. I oversee the fund and have final discretionary oversight.
+Temerity Holdings is an experimental AI-powered trading operation. I oversee the operation and have final discretionary oversight.
 
 This project is an experiment in AI agent team creation and scaling. I am using quantitative trading as the mechanism for evaluating performance. My primary goal with this project is to build a team of agents that can trade profitably. 
 
