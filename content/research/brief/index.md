@@ -5,7 +5,7 @@ description: "AI-curated research briefs on focused topics — Claude-written sy
 
 # Briefs
 
-Temerity Holdings Briefs are a series of AI-curated research issues on topics central to the fund's work. Each issue combines freely available information (articles, papers, journals) on the topic with Claude's synthesis of that information. Some issues include my personal notes on applications to the project or observations from the source material.
+Temerity Holdings Briefs are a series of AI-curated research issues on topics central to the operation's work. Each issue combines freely available information (articles, papers, journals) on the topic with Claude's synthesis of that information. Some issues include my personal notes on applications to the project or observations from the source material.
 
 **What's in each issue:**
 - Claude-authored synthesis sections

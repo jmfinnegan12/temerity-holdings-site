@@ -1,6 +1,6 @@
 ---
 title: Research
-description: "Public research outputs from Temerity Holdings — landscape primers, curated reading, and synthesis on topics relevant to the fund."
+description: "Public research outputs from Temerity Holdings — landscape primers, curated reading, and synthesis on topics relevant to the trading operation."
 ---
 
 # Research
@@ -14,4 +14,4 @@ Temerity Holdings research homepage
 
 ---
 
-*More research initiatives coming as the fund matures. [[About - Temerity Holdings|About Temerity Holdings]]*
+*More research initiatives coming as the operation matures. [[About - Temerity Holdings|About Temerity Holdings]]*

@@ -7,7 +7,7 @@ description: "A recurring research series on the hedge fund industry — landsca
 
 **Topic:** The hedge fund industry — how it is structured, how it operates, what strategies it employs, who the major players are, and how it is regulated.
 
-**My angle:** At Temerity Holdings, I am building an experimental AI-driven quantitative fund. Understanding the broader hedge fund industry — the ecosystem, competitors, regulatory environment  — is crucial. This brief tracks that landscape.
+**My angle:** At Temerity Holdings, I am building an experimental AI-driven quantitative trading operation. Understanding the broader hedge fund industry — the ecosystem, competitors, regulatory environment  — is crucial. This brief tracks that landscape.
 
 **Issue type:** Began as a one-time comprehensive primer (Issue 1). Future issues cover emerging developments, new regulatory changes, evolving competitive dynamics, and special topics (e.g. fund operations & startup, specific strategy deep dives).
 
